@@ -1,3 +1,3 @@
 def greetings(name):
-    print("This is the start")
+    print("This is the start good")
     return f("hello,{name}!") 
